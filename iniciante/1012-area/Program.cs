@@ -12,9 +12,10 @@ namespace Area
             double A = double.Parse(dados[0], CultureInfo.InvariantCulture);
             double B = double.Parse(dados[1], CultureInfo.InvariantCulture);
             double C = double.Parse(dados[2], CultureInfo.InvariantCulture);
+            double pi = 3.14159;
 
             double triangleArea = (A * C) / 2.0;
-            double circleArea = Math.PI * Math.Pow(C, 2);
+            double circleArea = pi * Math.Pow(C, 2);
             double trapezoidArea = ((A + B) * C) / 2.0;
             double squareArea = Math.Pow(B, 2);
             double rectangleArea = A * B;
