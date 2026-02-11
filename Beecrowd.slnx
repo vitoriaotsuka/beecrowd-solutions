@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/Iniciante/">
+    <Project Path="iniciante/1001-extremamente-basico/Beecrowd1001.csproj" />
+    <Project Path="iniciante/1002-area-do-circulo/Beecrowd1002.csproj" />
+    <Project Path="iniciante/1003-soma-simples/Beecrowd1003.csproj" />
+    <Project Path="iniciante/1004-produto-simples/Beecrowd1004.csproj" />
+    <Project Path="iniciante/1005-media-1/Beecrowd1005.csproj" />
+    <Project Path="iniciante/1006-media-2/Beecrowd1006.csproj" />
+    <Project Path="iniciante/1007-diferenca/Beecrowd1007.csproj" />
+    <Project Path="iniciante/1008-salario/Beecrowd1008.csproj" />
+    <Project Path="iniciante/1009-salario-com-bonus/Beecrowd1009.csproj" />
+    <Project Path="iniciante/1010-calculo-simples/Beecrowd1010.csproj" />
+    <Project Path="iniciante/1011-esfera/Beecrowd1011.csproj" />
+    <Project Path="iniciante/1012-area/Beecrowd1012.csproj" />
+    <Project Path="iniciante/1013-o-maior/Beecrowd1013.csproj" />
+    <Project Path="iniciante/1014-consumo/Beecrowd1014.csproj" />
+    <Project Path="iniciante/1015-distancia-entre-dois-pontos/Beecrowd1015.csproj" />
+    <Project Path="iniciante/1016-distancia/Beecrowd1016.csproj" />
+    <Project Path="iniciante/1017-gasto-de-combustivel/Beecrowd1017.csproj" />
+    <Project Path="iniciante/1018-cedulas/Beecrowd1018.csproj" />
+    <Project Path="iniciante/1019-conversao-de-tempo/Beecrowd1019.csproj" />
+  </Folder>
+</Solution>
