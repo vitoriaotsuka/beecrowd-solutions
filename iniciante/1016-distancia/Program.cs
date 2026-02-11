@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+ * ===========================================================================================================
+ *   Beecrowd 1016 - Distância 
+ *   Descrição: Leia a distância (em Km) e calcule quanto tempo leva (em minutos) 
+ *   para o carro Y tomar essa distância do outro carro.
+ *   
+ *   
+ *   Saída: Imprima o tempo necessário seguido da mensagem "minutos".
+ * ===========================================================================================================
+*/
+
+using System;
 
 namespace Distancia
 {

@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+ * ==============================================================================
+ *   Beecrowd 1008 - Salário
+ *    Descrição: Leia o número de um funcionário, seu número de horas trabalhadas,
+ *    o valor que recebe por hora e calcula o salário desse funcionário. 
+ *    A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
+ *    
+ *    Saída: Imprima o número e o salário do funcionário.
+ * ==============================================================================
+*/
+
+using System;
 using System.Globalization;
 
 namespace salario

@@ -1,4 +1,18 @@
-﻿using System;
+﻿/*
+ * ==================================================================
+ *   Beecrowd 1002 - Area do Círculo
+ *    Descrição: Calcular a área de uma circunferência utilizando:
+ *        area = π * raio²
+ *       Considerar π = 3.14159.
+ *
+ *    Entrada:
+ *      Um valor de ponto flutuante (double) representando o raio.
+ *
+ *    Saída:
+ *      Imprimir "A=" seguido da área com 4 casas decimais.
+ * ===================================================================
+*/
+
 using System.Globalization;
 
 class Program

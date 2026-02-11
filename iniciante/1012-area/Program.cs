@@ -1,4 +1,21 @@
-﻿using System;
+﻿/*
+ * ========================================================================================================
+ *   Beecrowd 1012 - Área
+ *   Descrição: Leia três valores com ponto flutuante de dupla precisão: A, B e C. 
+ *   calcule e mostre:
+ *      a) a área do triângulo retângulo que tem A por base e C por altura.
+ *      b) a área do círculo de raio C. (pi = 3.14159)
+ *      c) a área do trapézio que tem A e B por bases e C por altura.
+ *      d) a área do quadrado que tem lado B.
+ *       e) a área do retângulo que tem lados A e B.
+ *   
+ *   Saída: Deverá conter 5 linhas de dados. Cada linha corresponde a uma das áreas descritas.
+ *   O valor calculado deve ser apresentado com 3 dígitos após o ponto decimal.
+ * ========================================================================================================
+*/
+
+
+using System;
 using System.Globalization;
 
 namespace Area

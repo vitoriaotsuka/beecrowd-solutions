@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+ * ==============================================================================
+ *   Beecrowd 1007 - Diferença
+ *    Descrição: Leia quatro valores inteiros A, B, C e D.  
+ *    A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D
+ *    segundo a fórmula: DIFERENCA = (A * B - C * D).
+ *    
+ *    Saída: Imprima a mensagem DIFERENCA com todas as letras maiúsculas.
+ * ==============================================================================
+*/
+
+
+using System;
 
 namespace diferenca
 {

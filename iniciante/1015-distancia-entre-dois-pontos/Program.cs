@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+ * ===========================================================================================================
+ *   Beecrowd 1015 - Distância Entre Dois Pontos
+ *   Descrição: Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano,
+ *   p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais, 
+ *   segundo a fórmula: distancia = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+ *   
+ *   
+ *   Saída: Calcule e imprima o valor da distância segundo a fórmula fornecida, considerando 4 casas decimais.
+ * ===========================================================================================================
+*/
+
+using System;
 using System.Globalization;
 
 namespace Distancia {

@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+ * =======================================================================================================
+ *   Beecrowd 1009 - Salário com Bônus
+ *    Descrição:  leia o nome de um vendedor, o seu salário fixo e o total de vendas 
+ *    efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão
+ *    sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
+ *    
+ *    Saída: Imprima o total que o funcionário deverá receber.
+ * ========================================================================================================
+*/
+
+using System;
 using System.Globalization;
 
 namespace salario_bonus

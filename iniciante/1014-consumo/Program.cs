@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+ * ===========================================================================================================
+ *   Beecrowd 1014 - Consumo
+ *   Descrição: Calcule o consumo médio de um automóvel sendo fornecidos a distância total percorrida (em Km)
+ *   e o total de combustível gasto (em litros). 
+ *   
+ *   Saída: Apresente o valor que representa o consumo médio do automóvel com 3 casas após a vírgula,
+ *   seguido da mensagem "km/l".
+ * ===========================================================================================================
+*/
+
+using System;
 using System.Globalization;
 
 namespace Consumo

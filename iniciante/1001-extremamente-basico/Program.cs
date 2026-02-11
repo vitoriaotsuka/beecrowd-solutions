@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * ===========================================================
+ *   Beecrowd 1001 - Extremamente Básico
+ *   Descrição: Leia dois valores inteiros A e B.
+ *   A seguir, calcule a soma entre eles e imprima X = soma.
+ * ===========================================================
+*/
+
+using System;
 
 class Program
 {

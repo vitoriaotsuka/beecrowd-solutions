@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * ========================================================================================================
+ *   Beecrowd 1013 - O Maior
+ *   Descrição: Leia três valores e apresente o maior dos três valores lidos. 
+ *    Utilize a fórmula: maiorAB = (A + B + Math.Abs(A - B)) / 2
+ *   
+ *   Saída: Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maior".
+ * ========================================================================================================
+*/
+
+using System;
 
 namespace Maior
 {
