@@ -19,6 +19,7 @@
     <Project Path="iniciante/1017-gasto-de-combustivel/Beecrowd1017.csproj" />
     <Project Path="iniciante/1018-cedulas/Beecrowd1018.csproj" />
     <Project Path="iniciante/1019-conversao-de-tempo/Beecrowd1019.csproj" />
+    <Project Path="iniciante/1020-idade-em-dias/Beecrowd1020.csproj" />
+    <Project Path="iniciante/1021-notas-e-moedas/Beecrowd1021.csproj" Id="d8d9833b-8111-43ad-9240-7e31cc2e1aa5" />
   </Folder>
-  <Project Path="iniciante/1020-idade-em-dias/Beecrowd1020/Beecrowd1020.csproj" Id="fe1c1cae-3838-4625-8a99-264825a9f8d2" />
 </Solution>
