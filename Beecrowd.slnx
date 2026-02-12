@@ -21,5 +21,6 @@
     <Project Path="iniciante/1019-conversao-de-tempo/Beecrowd1019.csproj" />
     <Project Path="iniciante/1020-idade-em-dias/Beecrowd1020.csproj" />
     <Project Path="iniciante/1021-notas-e-moedas/Beecrowd1021.csproj" Id="d8d9833b-8111-43ad-9240-7e31cc2e1aa5" />
+    <Project Path="iniciante/1022-tda-racional/Beecrowd1022.csproj" Id="218b1bed-b4c7-4034-a530-cad95f8bd084" />
   </Folder>
 </Solution>
